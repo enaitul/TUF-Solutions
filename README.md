@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-08-09` |
+| **3** | 0 | 3 | 0 | `2026-08-11` |
 
 ---
 
@@ -15,7 +15,8 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `DSA` |
-| 0002 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `DSA` |
+| 0002 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `DSA` |
+| 0003 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `DSA` |
 
 ---
 
