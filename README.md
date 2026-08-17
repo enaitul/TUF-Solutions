@@ -17,7 +17,7 @@
 | 0001 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `DSA` |
 | 0002 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `DSA` |
 | 0003 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `DSA` |
-| 0004 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) | 🟢 Easy | `DSA` / `Recursion` |
+| 0004 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `DSA` / `Recursion` |
 
 ---
 
