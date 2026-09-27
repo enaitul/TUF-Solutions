@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 2 | 4 | 0 | `2026-09-25` |
+| **7** | 2 | 5 | 0 | `2026-09-27` |
 
 ---
 
@@ -22,6 +22,12 @@
 | 0004 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
 | 0005 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
 | 0006 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
+
+### Design (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-09-27` |
 
 ---
 
