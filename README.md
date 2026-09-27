@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 2 | 6 | 0 | `2026-09-27` |
+| **9** | 2 | 7 | 0 | `2026-09-27` |
 
 ---
 
@@ -23,12 +23,13 @@
 | 0005 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
 | 0006 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
 
-### Design (2)
+### Design (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Practice (Attributes and Methods)](./Design/Introduction-To-Oops/practice-attributes-and-methods) | [JAVA](./Design/Introduction-To-Oops/practice-attributes-and-methods/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-09-27` |
 | 0002 | [Practice (Classes and Objects)](./Design/Introduction-To-Oops/practice-classes-and-objects) | [JAVA](./Design/Introduction-To-Oops/practice-classes-and-objects/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-09-27` |
+| 0003 | [Practice (Constructors)](./Design/Introduction-To-Oops/practice-constructors) | [JAVA](./Design/Introduction-To-Oops/practice-constructors/solution.java) | 🟡 Medium | `Introduction-To-Oops` | `2026-09-27` |
 
 ---
 
