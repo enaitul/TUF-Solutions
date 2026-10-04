@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **13** | 2 | 11 | 0 | `2026-10-04` |
+| **14** | 2 | 12 | 0 | `2026-10-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (10)
+### DSA (11)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -26,6 +26,7 @@
 | 0008 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
 | 0009 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
 | 0010 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0011 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 
 ### Design (3)
 
