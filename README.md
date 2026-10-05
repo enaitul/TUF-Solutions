@@ -17,7 +17,7 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Assign Cookies](./DSA/Greedy/assign-cookies) | [CPP](./DSA/Greedy/assign-cookies/solution.cpp) | 🟢 Easy | `Greedy` | `2026-08-19` |
-| 0002 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
+| 0002 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
 | 0003 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 | 0004 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
 | 0005 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
