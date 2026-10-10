@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **17** | 2 | 15 | 0 | `2026-10-10` |
+| **18** | 2 | 16 | 0 | `2026-10-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (14)
+### DSA (15)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -30,6 +30,7 @@
 | 0012 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
 | 0013 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 | 0014 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0015 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
 
 ### Design (3)
 
