@@ -17,8 +17,8 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Assign Cookies](./DSA/Greedy/assign-cookies) | [CPP](./DSA/Greedy/assign-cookies/solution.cpp) | 🟢 Easy | `Greedy` | `2026-08-19` |
-| 0002 | [Bipartite graph](./DSA/Beginner-Problems/bipartite-graph) | [CPP](./DSA/Beginner-Problems/bipartite-graph/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-10-10` |
-| 0003 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
+| 0002 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
+| 0003 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
 | 0004 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 | 0005 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
 | 0006 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
