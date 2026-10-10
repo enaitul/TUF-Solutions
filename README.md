@@ -6,29 +6,30 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 2 | 14 | 0 | `2026-10-05` |
+| **17** | 2 | 15 | 0 | `2026-10-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (13)
+### DSA (14)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Assign Cookies](./DSA/Greedy/assign-cookies) | [CPP](./DSA/Greedy/assign-cookies/solution.cpp) | 🟢 Easy | `Greedy` | `2026-08-19` |
-| 0002 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
-| 0003 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0004 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
-| 0005 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0006 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
-| 0007 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0008 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0009 | [Number of distinct islands](./DSA/Graphs/number-of-distinct-islands) | [CPP](./DSA/Graphs/number-of-distinct-islands/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0010 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
-| 0011 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
-| 0012 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0013 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0002 | [Bipartite graph](./DSA/Beginner-Problems/bipartite-graph) | [CPP](./DSA/Beginner-Problems/bipartite-graph/solution.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-10-10` |
+| 0003 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
+| 0004 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0005 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
+| 0006 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0007 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
+| 0008 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0009 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0010 | [Number of distinct islands](./DSA/Graphs/number-of-distinct-islands) | [CPP](./DSA/Graphs/number-of-distinct-islands/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0011 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
+| 0012 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
+| 0013 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0014 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 
 ### Design (3)
 
