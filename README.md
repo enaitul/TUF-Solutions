@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **18** | 2 | 16 | 0 | `2026-10-10` |
+| **19** | 2 | 17 | 0 | `2026-10-11` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (15)
+### DSA (16)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,17 +20,18 @@
 | 0002 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
 | 0003 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
 | 0004 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0005 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
-| 0006 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0007 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
-| 0008 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0009 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0010 | [Number of distinct islands](./DSA/Graphs/number-of-distinct-islands) | [CPP](./DSA/Graphs/number-of-distinct-islands/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0011 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
-| 0012 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
-| 0013 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0014 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0015 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
+| 0005 | [Find Eventual Safe States](./DSA/Graphs/find-eventual-safe-states) | [Solution-2](./DSA/Graphs/find-eventual-safe-states/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-11` |
+| 0006 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
+| 0007 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0008 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
+| 0009 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0010 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0011 | [Number of distinct islands](./DSA/Graphs/number-of-distinct-islands) | [CPP](./DSA/Graphs/number-of-distinct-islands/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0012 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
+| 0013 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
+| 0014 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0015 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0016 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
 
 ### Design (3)
 
