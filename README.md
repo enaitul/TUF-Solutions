@@ -20,7 +20,7 @@
 | 0002 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
 | 0003 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
 | 0004 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0005 | [Find Eventual Safe States](./DSA/Graphs/find-eventual-safe-states) | [Solution-2](./DSA/Graphs/find-eventual-safe-states/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-11` |
+| 0005 | [Find Eventual Safe States](./DSA/Graphs/find-eventual-safe-states) | [Solution-2](./DSA/Graphs/find-eventual-safe-states/Solution-2.cpp) [Solution-1](./DSA/Graphs/find-eventual-safe-states/Solution-1.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-11` |
 | 0006 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
 | 0007 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
 | 0008 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
@@ -31,7 +31,7 @@
 | 0013 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
 | 0014 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 | 0015 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0016 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
+| 0016 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
 
 ### Design (3)
 
