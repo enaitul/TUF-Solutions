@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **24** | 2 | 19 | 3 | `2026-10-13` |
+| **25** | 2 | 19 | 4 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (21)
+### DSA (22)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -37,6 +37,7 @@
 | 0019 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-13` |
 | 0020 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 | 0021 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
+| 0022 | [Word ladder I](./DSA/Graphs/word-ladder-i) | [CPP](./DSA/Graphs/word-ladder-i/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-13` |
 
 ### Design (3)
 
