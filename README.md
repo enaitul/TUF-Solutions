@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 2 | 19 | 4 | `2026-10-13` |
+| **26** | 2 | 20 | 4 | `2026-10-14` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (22)
+### DSA (23)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,22 +22,23 @@
 | 0004 | [Course Schedule I](./DSA/Graphs/course-schedule-i) | [CPP](./DSA/Graphs/course-schedule-i/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-11` |
 | 0005 | [Course Schedule II](./DSA/Graphs/course-schedule-ii) | [CPP](./DSA/Graphs/course-schedule-ii/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-11` |
 | 0006 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
-| 0007 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0008 | [Find Eventual Safe States](./DSA/Graphs/find-eventual-safe-states) | [Solution-1](./DSA/Graphs/find-eventual-safe-states/Solution-1.cpp) [Solution-2](./DSA/Graphs/find-eventual-safe-states/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-11` |
-| 0009 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
-| 0010 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0011 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
-| 0012 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0013 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
-| 0014 | [Number of distinct islands](./DSA/Graphs/number-of-distinct-islands) | [CPP](./DSA/Graphs/number-of-distinct-islands/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0015 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
-| 0016 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
-| 0017 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0018 | [Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [CPP](./DSA/Graphs/shortest-path-in-dag/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-13` |
-| 0019 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-13` |
-| 0020 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
-| 0021 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
-| 0022 | [Word ladder I](./DSA/Graphs/word-ladder-i) | [CPP](./DSA/Graphs/word-ladder-i/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-13` |
+| 0007 | [Dijkstra's Algorithm](./DSA/Graphs/dijkstra's-algorithm) | [CPP](./DSA/Graphs/dijkstra's-algorithm/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-14` |
+| 0008 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0009 | [Find Eventual Safe States](./DSA/Graphs/find-eventual-safe-states) | [Solution-1](./DSA/Graphs/find-eventual-safe-states/Solution-1.cpp) [Solution-2](./DSA/Graphs/find-eventual-safe-states/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-11` |
+| 0010 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
+| 0011 | [Frog jump with K distances](./DSA/General/frog-jump-with-k-distances) | [CPP](./DSA/General/frog-jump-with-k-distances/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0012 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-25` |
+| 0013 | [Ninja and his Friends](./DSA/General/ninja-and-his-friends) | [CPP](./DSA/General/ninja-and-his-friends/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0014 | [Ninja's training](./DSA/General/ninjas-training) | [CPP](./DSA/General/ninjas-training/solution.cpp) | 🟡 Medium | `General` | `2026-08-19` |
+| 0015 | [Number of distinct islands](./DSA/Graphs/number-of-distinct-islands) | [CPP](./DSA/Graphs/number-of-distinct-islands/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0016 | [Number of provinces](./DSA/Graphs/number-of-provinces) | [CPP](./DSA/Graphs/number-of-provinces/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-29` |
+| 0017 | [Pow(x,n)](./DSA/Recursion/powxn) | [Solution-2](./DSA/Recursion/powxn/Solution-2.cpp) [Solution-3](./DSA/Recursion/powxn/Solution-3.cpp) | 🟢 Easy | `Recursion` | `2026-08-19` |
+| 0018 | [Rotten Oranges](./DSA/Graphs/rotten-oranges) | [CPP](./DSA/Graphs/rotten-oranges/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0019 | [Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [CPP](./DSA/Graphs/shortest-path-in-dag/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-13` |
+| 0020 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-13` |
+| 0021 | [Surrounded Regions](./DSA/Graphs/surrounded-regions) | [CPP](./DSA/Graphs/surrounded-regions/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
+| 0022 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [Solution-1](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-1.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🟡 Medium | `Graphs` | `2026-10-10` |
+| 0023 | [Word ladder I](./DSA/Graphs/word-ladder-i) | [CPP](./DSA/Graphs/word-ladder-i/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-13` |
 
 ### Design (3)
 
