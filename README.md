@@ -22,7 +22,7 @@
 | 0004 | [Course Schedule I](./DSA/Graphs/course-schedule-i) | [CPP](./DSA/Graphs/course-schedule-i/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-11` |
 | 0005 | [Course Schedule II](./DSA/Graphs/course-schedule-ii) | [CPP](./DSA/Graphs/course-schedule-ii/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-11` |
 | 0006 | [Detect A Cycle In An Undirected Graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [Solution-2](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-2.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-05` |
-| 0007 | [Dijkstra's Algorithm](./DSA/Graphs/dijkstra's-algorithm) | [CPP](./DSA/Graphs/dijkstra's-algorithm/solution.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-14` |
+| 0007 | [Dijkstra's algorithm](./DSA/Graphs/dijkstra's-algorithm) | [CPP](./DSA/Graphs/dijkstra's-algorithm/solution.cpp) [Solution-2](./DSA/Graphs/dijkstra's-algorithm/Solution-2.cpp) | 🟡 Medium | `Graphs` | `2026-10-14` |
 | 0008 | [Distance of nearest cell having one](./DSA/Graphs/distance-of-nearest-cell-having-one) | [CPP](./DSA/Graphs/distance-of-nearest-cell-having-one/solution.cpp) | 🟡 Medium | `Graphs` | `2026-10-04` |
 | 0009 | [Find Eventual Safe States](./DSA/Graphs/find-eventual-safe-states) | [Solution-1](./DSA/Graphs/find-eventual-safe-states/Solution-1.cpp) [Solution-2](./DSA/Graphs/find-eventual-safe-states/Solution-2.cpp) | ⚪ Unspecified | `Graphs` | `2026-10-11` |
 | 0010 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [CPP](./DSA/Graphs/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
